@@ -1,0 +1,95 @@
+/* CSS Document */
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.sharing-default-minimal .nectar-love.loved,
+
+  body .nectar-social[data-color-override="override"].fixed > a:before, 
+
+  body .nectar-social[data-color-override="override"].fixed .nectar-social-inner a,
+
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:hover {
+
+    background-color: #966044;
+
+  }
+
+  .nectar-social.hover .nectar-love.loved,
+
+  .nectar-social.hover > .nectar-love-button a:hover,
+
+  .nectar-social[data-color-override="override"].hover > div a:hover,
+
+  #single-below-header .nectar-social[data-color-override="override"].hover > div a:hover,
+
+  .nectar-social[data-color-override="override"].hover .share-btn:hover,
+
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a {
+
+    border-color: #966044;
+
+  }
+
+  #single-below-header .nectar-social.hover .nectar-love.loved i,
+
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover,
+
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover i,
+
+  #single-below-header .nectar-social.hover .nectar-love-button a:hover i,
+
+  .nectar-love:hover i,
+
+  .hover .nectar-love:hover .total_loves,
+
+  .nectar-love.loved i,
+
+  .nectar-social.hover .nectar-love.loved .total_loves,
+
+  .nectar-social.hover .share-btn:hover, 
+
+  .nectar-social[data-color-override="override"].hover .nectar-social-inner a:hover,
+
+  .nectar-social[data-color-override="override"].hover > div:hover span,
+
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) i,
+
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) {
+
+    color: #966044;
+
+  }
+.no-rgba #header-space{display:none;}@media only screen and (max-width:999px){body #header-space[data-header-mobile-fixed="1"]{display:none;}#header-outer[data-mobile-fixed="false"]{position:absolute;}}@media only screen and (max-width:999px){body:not(.nectar-no-flex-height) #header-space[data-secondary-header-display="full"]:not([data-header-mobile-fixed="false"]){display:block!important;margin-bottom:-50px;}#header-space[data-secondary-header-display="full"][data-header-mobile-fixed="false"]{display:none;}}@media only screen and (min-width:1000px){#header-space{display:none;}.nectar-slider-wrap.first-section,.parallax_slider_outer.first-section,.full-width-content.first-section,.parallax_slider_outer.first-section .swiper-slide .content,.nectar-slider-wrap.first-section .swiper-slide .content,#page-header-bg,.nder-page-header,#page-header-wrap,.full-width-section.first-section{margin-top:0!important;}body #page-header-bg,body #page-header-wrap{height:126px;}body #search-outer{z-index:100000;}}@media only screen and (min-width:1000px){#page-header-wrap.fullscreen-header,#page-header-wrap.fullscreen-header #page-header-bg,html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header,.nectar_fullscreen_zoom_recent_projects,#nectar_fullscreen_rows:not(.afterLoaded) > div{height:100vh;}.wpb_row.vc_row-o-full-height.top-level,.wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:100vh;}#page-header-bg[data-alignment-v="middle"] .span_6 .inner-wrap,#page-header-bg[data-alignment-v="top"] .span_6 .inner-wrap{padding-top:98px;}.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh + 2px)!important;}.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 30px)!important;}}@media only screen and (max-width:999px){#page-header-bg[data-alignment-v="middle"]:not(.fullscreen-header) .span_6 .inner-wrap,#page-header-bg[data-alignment-v="top"] .span_6 .inner-wrap{padding-top:49px;}.vc_row.top-level.full-width-section:not(.full-width-ns) > .span_12,#page-header-bg[data-alignment-v="bottom"] .span_6 .inner-wrap{padding-top:24px;}}@media only screen and (max-width:690px){.vc_row.top-level.full-width-section:not(.full-width-ns) > .span_12{padding-top:49px;}.vc_row.top-level.full-width-content .nectar-recent-posts-single_featured .recent-post-container > .inner-wrap{padding-top:24px;}}@media only screen and (max-width:999px){.full-width-ns .nectar-slider-wrap .swiper-slide[data-y-pos="middle"] .content,.full-width-ns .nectar-slider-wrap .swiper-slide[data-y-pos="top"] .content{padding-top:30px;}}#nectar_fullscreen_rows{background-color:;}
+@media (max-width: 999px) {
+
+    .home1 .swiper-slide[data-bg-alignment="center"] .image-bg {
+
+        background-position: right center;
+
+    }
+
+    .home3 .row-bg.using-image {
+
+        background-position: right center !important;
+
+    }
+
+    
+
+    .home-businesses .vc_col-xs-3 {
+
+        margin: 0px 10px 20px !important;
+
+    }
+
+}
+.vc_custom_1591410615383{padding-right: 10% !important;}.vc_custom_1591405914296{padding-right: 10% !important;}.vc_custom_1591406450274{padding-right: 10% !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }
